@@ -1,8 +1,33 @@
-header
+body
+{
+  background-color: #ededa6;
+
+}
+.header
 {
   background-color: #fefefa
 }
 .redes-sociales
 {
-  padding: 5%
+  padding: 2.5%;
+  text-align: right;
+}
+.item
+{
+  text-decoration: overline;
+  text-align: center;
+  background-color: #fdfff5
+}
+.item a
+{
+  text-decoration: none;
+  color: black;
+}
+.articulos
+{
+  background-color: #fefefa
+}
+.buscador
+{
+  background-color: #e6e6ad
 }
