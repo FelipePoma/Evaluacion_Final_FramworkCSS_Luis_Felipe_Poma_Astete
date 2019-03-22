@@ -6,3 +6,29 @@ body
   background-size: cover;
   font-family: serif;
 }
+.cabezera,.cuerpo
+{
+  background-color: #d2f9ff
+}
+.titulo
+{
+  border-right: 1px solid gray;
+  text-align: right;
+}
+.cuerpo
+{
+  border-top: 1px solid gray
+}
+.button
+{
+  margin: 5%
+}
+.left
+{
+  background-color: #fffbcd;
+  margin: 4%
+}
+.navbar
+{
+  opacity: 100%
+}
