@@ -28,7 +28,8 @@ body
   background-color: #fffbcd;
   margin: 4%
 }
-.navbar
+.left-img img
 {
-  opacity: 100%
+  width: 92%  ;
+padding: 2%
 }
