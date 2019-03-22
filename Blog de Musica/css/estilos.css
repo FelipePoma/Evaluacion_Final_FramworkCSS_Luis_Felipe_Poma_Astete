@@ -82,9 +82,16 @@ padding: 2%
   background-color: #fdfff5;
   padding: 2%
 }
-.share img
+.form-group img
 {
-  height: 10%;
-  width: 10%;
-  float: left;
+
+  width: 22px;
+}
+#search
+{
+ padding-right: 2%
+}
+.list-group
+{
+  text-align: center;
 }
