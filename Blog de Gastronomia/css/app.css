@@ -1,7 +1,6 @@
 body
 {
   background-image: url("../img/fondo-comida.jpg");
-  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   font-family: serif;
@@ -16,6 +15,10 @@ body
   border-right: 1px solid gray;
   text-align: right;
 }
+.titulo h1
+{
+  font-size: 2rem
+}
 .cuerpo
 {
   border-top: 1px solid gray
@@ -27,7 +30,7 @@ body
 .left,.right
 {
   background-color: #fffbcd ;
-  margin:2%;
+  margin-top: 2%;
 }
 .left-img img
 {
@@ -48,5 +51,26 @@ padding: 2%
 }
 .right img
 {
-  width: 100%
+  width: 100%;
+
+}
+.user
+{
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray
+}
+.comentarios img
+{
+  width: 60%
+}
+
+.comentarios
+{
+  padding:5%;
+  margin: 5%
+}
+.user4
+{
+  border-top: 1px solid gray;
+  padding: 2.5%
 }
