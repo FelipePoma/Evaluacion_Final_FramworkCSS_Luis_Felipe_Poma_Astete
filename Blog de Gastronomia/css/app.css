@@ -8,7 +8,8 @@ body
 }
 .cabezera,.cuerpo
 {
-  background-color: #d2f9ff
+  background-color: #d2f9ff;
+  opacity: 0.9
 }
 .titulo
 {
@@ -21,15 +22,31 @@ body
 }
 .button
 {
-  margin: 5%
+  margin: 3%
 }
-.left
+.left,.right
 {
-  background-color: #fffbcd;
-  margin: 4%
+  background-color: #fffbcd ;
+  margin:2%;
 }
 .left-img img
 {
   width: 92%  ;
 padding: 2%
+}
+.historial
+{
+  margin: 2%
+}
+.img
+{
+  padding: : 2%
+}
+.right
+{
+  padding: 2.5%
+}
+.right img
+{
+  width: 100%
 }
