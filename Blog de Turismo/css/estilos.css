@@ -16,5 +16,14 @@ nav{
 }
 .redes img{
   width: 75%
-
 }
+.imagenes
+{
+  margin: 2%
+}
+.img-york{
+  width: 300px;
+  border: 0.2rem solid black;
+  border-radius: 1px;
+  margin: 2%
+ }
