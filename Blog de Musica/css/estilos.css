@@ -82,6 +82,10 @@ padding: 2%
   background-color: #fdfff5;
   padding: 2%
 }
+.share button
+{
+min-height: 10%
+}
 .form-group img
 {
 
